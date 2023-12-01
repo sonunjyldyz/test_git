@@ -1,0 +1,3 @@
+doxygen-junit==2.3.0
+exitstatus==2.4.0
+pip-autoremove==0.10.0
